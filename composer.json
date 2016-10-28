@@ -1,6 +1,7 @@
 {
     "name": "vpodorozh/soap_wsse",
     "description": "Allow to create SOAP client with WSSE header to make WSSE auth calls.",
+    "version": "0.0.1",
     "license": "MIT",
     "keywords": [ "soap", "soap-client", "wsse" ],
     "authors": [
