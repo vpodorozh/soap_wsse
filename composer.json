@@ -1,0 +1,17 @@
+{
+    "name": "vpodorozh/soap_wsse",
+    "description": "Allow to create SOAP client with WSSE header to make WSSE auth calls.",
+    "license": "MIT",
+    "keywords": [ "soap", "soap-client", "wsse" ],
+    "authors": [
+        {
+            "name": "Vladyslav Podorozhnyi",
+            "email": "vpodorozh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0",
+        "ext-soap": "*"
+    }
+}
