@@ -1,7 +1,7 @@
 {
     "name": "vpodorozh/soap_wsse",
     "description": "Implements basic WSSE functionality for SOAP client in PHP.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "license": "MIT",
     "keywords": [ "soap", "soap-client", "wsse" ],
     "authors": [
