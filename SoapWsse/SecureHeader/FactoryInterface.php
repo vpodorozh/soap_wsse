@@ -6,8 +6,9 @@ interface FactoryInterface
 {
     /**
      * Create and get secure header
-     * @param $user
-     * @param $pass
+     *
+     * @param string $user Username
+     * @param string $pass Password, use unencrypted format
      * @return \SoapHeader
      */
     public function create($user, $pass);
