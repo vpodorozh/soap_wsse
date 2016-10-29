@@ -1,6 +1,6 @@
 {
     "name": "vpodorozh/soap_wsse",
-    "description": "Allow to create SOAP client with WSSE header to make WSSE auth calls.",
+    "description": "Implements basic WSSE functionality for SOAP client in PHP.",
     "version": "0.0.1",
     "license": "MIT",
     "keywords": [ "soap", "soap-client", "wsse" ],
